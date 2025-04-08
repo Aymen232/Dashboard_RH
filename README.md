@@ -49,5 +49,8 @@ Affiche des indicateurs synthétiques :
 
 ---
 
-## 📁 Contenu du dépôt
+## 🧰 Outils utilisés
+
+- [Power BI Desktop](https://powerbi.microsoft.com/)
+- Excel (préparation des données)
 
